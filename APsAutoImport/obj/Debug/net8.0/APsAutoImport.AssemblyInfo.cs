@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APsAutoImport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08a21ad0670f0c6b961d3d2e6168be9f2572b975")]
 [assembly: System.Reflection.AssemblyProductAttribute("APsAutoImport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APsAutoImport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

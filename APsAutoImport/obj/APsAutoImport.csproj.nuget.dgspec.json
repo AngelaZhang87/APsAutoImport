@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj": {}
+    "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj": {
+    "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
+        "projectUniqueName": "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
         "projectName": "APsAutoImport",
-        "projectPath": "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
+        "projectPath": "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
         "packagesPath": "C:\\Users\\ruimingzhang\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\obj\\",
+        "outputPath": "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruimingzhang\\AppData\\Roaming\\NuGet\\NuGet.Config",

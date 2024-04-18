@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RwKSL09msU3wu4BOXhygnTBbgiCm9EKi0jAeJY7U1XxrDki0xTu6kkvM1U324IdRsqIInKIqIhkNVz+vS5LXXA==",
+  "dgSpecHash": "yHBxtWwS/x4pk2oXKpMeoeJXcAVS+TlpZXgrUffWuGkmnT/uW0doj3Eq1ymvyjdstnsZlK9iw3xocyftVwlzTA==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Playground\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
+  "projectFilePath": "C:\\Dev\\OwnProject\\APsAutoImport\\APsAutoImport\\APsAutoImport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruimingzhang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ruimingzhang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

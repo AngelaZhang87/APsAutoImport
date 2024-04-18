@@ -19,5 +19,7 @@ namespace APsAutoImport.Models
         public bool ArrivingSoon {  get; set; }
         public Catergory Catergory { get; set; } = default!;
 
+
+
     }
 }
