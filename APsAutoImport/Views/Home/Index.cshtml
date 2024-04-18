@@ -1,0 +1,41 @@
+﻿@model HomeViewModel
+
+<html lang="en" data-bs-theme="dark">
+    <div class="container-lg">
+        <div class="text-center">
+
+            <img src="/lib/APImgaes/HomePageBackground.png" class="img-fluid" class="max-width: 100%" />
+                <h1>Welcome to AP's Auto Import</h1>
+                <h1>Hybrid Collection</h1>
+                <h4> Why buy with AP's Auto Import?</h4>
+                   <br />
+
+                <h5>
+                    SECOND-TO-NONE SERVICE <br />
+                    LOCALLY OWNED & OPERATED AFFORDABLE<br />
+                    QUALITY VEHICLES 100% ONLINE FINANCE APPLICATION
+                </h5>
+
+
+                <div class="row HybridCollection">
+                        <div class="row row-cols-1 row-cols-md-3 g-4">
+                            @foreach (var car in Model.HybridCollection)
+                            {
+                                <div class="col">
+                                    <div class="card car-card">
+                                        <img src="@car.ImageUrl" class="card-img-top" >
+                                            <h3 class="text-start">
+                                <a class="car-link text-white text-decoration-none " asp-controller="Car" asp-action="Details" asp-route-id="@car.CarId">@car.Year @car.Make @car.Model </a>
+                                            </h3>
+                                        <div class="card-body card-button">
+                                            <h4 class=" d-grid"></h4>
+ 
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                </div>
+        </div>
+     </div>
+ </html>

@@ -1,0 +1,22 @@
+﻿@model Car
+
+<h3>
+    @Model.Catergory.CatergoryName
+</h3>
+
+<div class="row gx-4">
+    <img alt="@Model.Model" src="@Model.ImageUrl" class="img-fluid col-5">
+    <div class="col-7">
+        <h4>@Model.Make @Model.Model @Model.Year </h4>
+        <p>@Model.Description</p>
+        <h3 class="pull-right"> @Model.Price.ToString("c") </h3>
+        <h2 class="text-start">
+            <a asp-controller="Car" asp-action="List" class="btn btn-primary"> Return to List</a>
+        </h2>
+        <div class="addToCart">
+            <p class="button">
+                
+            </p>
+        </div>
+    </div>
+</div>
